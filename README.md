@@ -1,2 +1,2 @@
 # e2e-Resnet-based-classifier
-End to end Image classifier based on Resnet backbone and fastapi endpoint for inferencing.
+Trained the model using resnet-50 backbone with imagenet-weights-v2. Used pytorch lightning as the preffered framework.
